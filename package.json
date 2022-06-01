@@ -1,0 +1,24 @@
+{
+  "name": "lap1-code-challenge",
+  "version": "1.0.0",
+  "description": "HI all welcome to our web",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brhanuh/LAP1-Code-Challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brhanuh/LAP1-Code-Challenge/issues"
+  },
+  "homepage": "https://github.com/brhanuh/LAP1-Code-Challenge#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "watchify": "^4.0.0"
+  }
+}
